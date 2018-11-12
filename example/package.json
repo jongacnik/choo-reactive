@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js -l -P"
+  },
+  "keywords": [],
+  "author": "Jon Gacnik <jon@folderstudio.com>",
+  "license": "MIT",
+  "dependencies": {
+    "choo": "^6.13.1",
+    "choo-devtools": "^2.5.1"
+  },
+  "devDependencies": {
+    "budo": "^11.5.0"
+  }
+}
