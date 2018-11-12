@@ -1,6 +1,6 @@
 {
   "name": "choo-reactive",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "auto-trigger app render on state change",
   "main": "index.js",
   "scripts": {
